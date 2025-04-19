@@ -47,7 +47,7 @@ El repositorio contiene los siguientes archivos:
 
 ## Licencia
 
-Este proyecto se distribuye bajo la [Añade aquí el tipo de licencia, por ejemplo, MIT License]. Consulta el archivo `LICENSE` para obtener más detalles.
+Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo `LICENSE` para obtener más detalles.
 
 ## Autor
 
@@ -55,4 +55,4 @@ Gabriel Guerrero
 
 ---
 
-¡Espero que este README sea útil para tu repositorio! Si quieres que le agregue o modifique algo más, no dudes en decirme. 😊
+¡Listo! Ahora tu README indica claramente que el proyecto está bajo la Licencia MIT. ¿Hay algo más en lo que pueda ayudarte hoy? 😊
