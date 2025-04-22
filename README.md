@@ -54,5 +54,3 @@ Este proyecto se distribuye bajo la **Licencia MIT**. Consulta el archivo `LICEN
 Gabriel Guerrero
 
 ---
-
-¡Listo! Ahora tu README indica claramente que el proyecto está bajo la Licencia MIT. ¿Hay algo más en lo que pueda ayudarte hoy? 😊
